@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yuusx-hub/mm2/refs/heads/main/Kuni-hub-OP"))()
